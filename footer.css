@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@400;500;700;900&display=swap');
+
+.txtReser{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.ubiReser{
+    position: absolute;
+    width: 420px;
+    height: 49px;
+    left: 56px;
+    top: 4384px;
+}
+
+.txtName{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.ubiName{
+    position: absolute;
+    width: 61px;
+    height: 15px;
+    left: 55px;
+    top: 4477px;
+    
+}
+
+.TxtTelf{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(157, 164, 189, 0.4);
+}
+
+.UbiTelf{
+    position: absolute;
+    width: 72px;
+    height: 15px;
+    left: 355px;
+    top: 4477px;
+}
+
+.TxtSms{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(157, 164, 189, 0.4);
+}
+
+.UbiTxtSms{
+    position: absolute;
+    width: 55px;
+    height: 15px;
+    left: 55px;
+    top: 4545px;
+}
+
+.txtContact{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 49px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.UbiTxtContact{
+    position: absolute;
+    width: 420px;
+    height: 49px;
+    left: 755px;
+    top: 4384px;
+}
+
+.CalleTxt{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+}
+
+.CalleTxt:hover{
+    color: #FF6C00;
+}
+
+.UbiUbi{
+    position: absolute;
+    width: 230px;
+    height: 60px;
+    left: 795px;
+    top: 4473px;
+}
+
+.telf-2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+}
+
+.telf-2:hover{
+    color: #FF6C00;
+}
+
+.Ubitelf-2{
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 795px;
+    top: 4553px;
+}
+
+.txtDire{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+}
+
+.txtDire:hover{
+    color: #FF6C00;
+}
+
+.direUbi{
+    position: absolute;
+    width: 230px;
+    height: 30px;
+    left: 795px;
+    top: 4603px;
+}
+
+.txtHora{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.horaUbi{
+    position: absolute;
+    width: 57px;
+    height: 15px;
+    left: 836px;
+    top: 4703px;
+}
+
+.txtDias{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #9DA4BD;
+}
+
+.diasUbi{
+    position: absolute;
+    width: 370px;
+    height: 30px;
+    left: 755px;
+    top: 4738px;
+}
+
+.button-4{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.09em;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    box-sizing: border-box;    
+    border: 1px solid #FF6C00;
+    border-radius: 25px;
+    
+}
+
+.button-4ubi{
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    left: 55px;
+    top: 4665px;
+    
+}
+
+.Ig-2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    color: #303030;
+
+}
+
+.Ig-2:hover{
+    color: #FF6C00;
+
+}
+
+.ubi-Ig-2{
+    position: absolute;
+    width: 72px;
+    height: 15px;
+    left: 1055px;
+    top: 4954px;
+}
+
+.YT-2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    color: #303030;
+
+}
+
+.YT-2:hover{
+    color: #FF6C00;
+}
+
+.ubiYT-2{
+    position: absolute;
+    width: 58px;
+    height: 15px;
+    left: 1167px;
+    top: 4954px;
+}
+
+.UbiCopy{
+    position: absolute;
+    width: 109px;
+    height: 15px;
+    left: 73px;
+    top: 4954px;
+}
+
+.Copy{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.2em;
+    color: #9DA4BD;
+}
