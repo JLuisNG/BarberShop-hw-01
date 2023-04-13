@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@400;500;700;900&display=swap');
+
+*{
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.logo-1{
+    position: absolute;
+    right: 90.32%;
+    top: 4.71%;
+    bottom: 87.14%;
+    height: 55.459999084472656px;
+    width: 68.93000030517578px;
+    left: 55px;
+    border-radius: 0px;
+}
+
+.img-1{
+    position: absolute;
+    left: 12.11%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    height: 680px;
+    width: 1125px;
+    left: 155px;
+    top: 0px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-2{
+    position: absolute;
+    width: 270px;
+    height: 304.24px;
+    left: 55px;
+    top: 991.88px;
+    height: 304.24114990234375px;
+    width: 270px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-3{
+    position: absolute;
+    width: 270px;
+    height: 304.24px;
+    left: 369px;
+    top: 985.73px;
+    height: 304.24114990234375px;
+    width: 270px;
+    left: 369px;
+    top: 985.726318359375px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-4{
+    position: absolute;
+    width: 1280px;
+    height: 718px;
+    left: -1px;
+    top: 1385px;
+    height: 718px;
+    width: 1280px;
+    left: -1px;
+    top: 1385px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-5{
+    position: absolute;
+    width: 170px;
+    height: 133px;
+    left: 177px;
+    top: 2342px;
+    height: 133px;
+    width: 170px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-6{
+    position: absolute;
+    width: 170px;
+    height: 133px;
+    left: 377px;
+    top: 2377px;
+    height: 133px;
+    width: 170px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-7{
+    position: absolute;
+    width: 170px;
+    height: 133px;
+    height: 133px;
+    width: 170px;
+    left: 177px;
+    top: 2505px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-8{
+    position: absolute;
+    width: 170px;
+    height: 133px;
+    height: 133px;
+    width: 170px;
+    left: 377px;
+    top: 2540px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-9{
+    position: absolute;
+    width: 370px;
+    height: 346px;
+    height: 346px;
+    width: 370px;
+    left: 55px;
+    top: 2943px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-10{
+    position: absolute;
+    width: 370px;
+    height: 346px;
+    height: 346px;
+    width: 370px;
+    left: 455px;
+    top: 2943px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-11{
+    position: absolute;
+    width: 370px;
+    height: 346px;
+    height: 346px;
+    width: 370px;
+    left: 855px;
+    top: 2943px;
+    border-radius: 0px;
+    z-index: -1;
+
+}
+
+.img-12{
+    position: absolute;
+    width: 270px;
+    height: 360px;
+    height: 360px;
+    width: 270px;
+    left: 55px;
+    top: 3764px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-13{
+    position: absolute;
+    width: 270px;
+    height: 360px;
+    height: 360px;
+    width: 270px;
+    left: 355px;
+    top: 3764px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-14{
+    position: absolute;
+    width: 270px;
+    height: 360px;
+    height: 360px;
+    width: 270px;
+    left: 655px;
+    top: 3764px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-15{
+    position: absolute;
+    width: 270px;
+    height: 360px;
+    height: 360px;
+    width: 270px;
+    left: 955px;
+    top: 3764px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-16{
+    position: absolute;
+    width: 1280px;
+    height: 644px;
+    left: 0px;
+    top: 4254px;
+    border-radius: 0px;
+    z-index: -1;
+}
+
+.img-17{
+    background: rgba(157, 164, 189, 0.6);
+}
+
+.cuadro-img17{
+    position: absolute;
+    right: 13.12%;
+    bottom: -2.79%;
+    height: 15px;
+    width: 33px;
+    left: 1079px;
+    top: 625px;
+}
+
+.img-18{
+    background: #FFFFFF
+}
+
+.cuadro-img18{
+    position: absolute;
+    right: 13.12%;
+    bottom: -2.79%;
+    height: 15px;
+    width: 33px;
+    left: 1165px;
+    top: 625px;
+}
+
+.img-19{
+    position: absolute;
+    height: 60.00000000000006px;
+    width: 1.0000000000000009px;
+    left: -50px;
+    top: -12px;
+    border-radius: 0px;
+    transform: rotate(90deg);
+    filter: brightness(500%);
+}
+
+
+
+
