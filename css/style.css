@@ -1,0 +1,121 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+/*----------------Header--------------- */
+
+.Header__container{
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    height: 48px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.Header__items{
+    display: flex;
+    gap: 25px;
+}
+
+.Header__items li a{
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    text-align: left;
+}
+
+.Header__items li a:hover{
+    color: #FF6C00;
+}
+
+.Header__items li a:focus {
+    color: #FF6C00;
+}
+
+.Header__Contact{
+    margin: 0 auto;
+}
+
+.Header__Contact a{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: calc(16 / 12);
+    letter-spacing: 0.1em;
+    color: #000;
+}
+
+.Header__Contact button{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: calc(16 / 12);
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family: inherit;
+    padding: 12px 20px;
+    background: transparent;
+    border: 1px solid #FF6C00;
+    border-radius: 50px;
+    min-width: 160px;
+}
+
+/*----------------Hero--------------- */
+
+.Hero__container{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.Hero__list{
+    width: 100px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 25px;
+    padding-bottom: 40px;
+}
+
+.Hero__Social{
+    transform: rotate(-90deg) translate(19px);
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 200px;
+}
+
+.Hero__Social li{
+    margin-left: 40px;
+}
+
+.Hero__Social li a{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: calc(15 / 11);
+    letter-spacing: 0.2em;
+    color: #30303067;
+}
+
+.Hero__Social::before{
+    content: "";
+    position: absolute;
+    left: -40px;
+    top: 9px;
+    width: 40px;
+    height: 1px;
+    background-color: #303030;
+}
+
+.Hero__Social a:hover{
+    color: #000000af;
+}
+
+.Hero__Social span:hover{
+    color: #c03131d3;
+}
